@@ -23,8 +23,9 @@ from langchain_core.messages import HumanMessage
 import os
 
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
-llm0 = ChatMistralAI(model="mistral-large-latest")
+# MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+# llm0 = ChatMistralAI(model="mistral-large-latest")
+
 from langchain_experimental.agents import create_pandas_dataframe_agent
 # Set the OpenAI API key from the environment variable
 os.environ['OPENAI_API_KEY'] = openai_api_key
