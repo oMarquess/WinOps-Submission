@@ -5,3 +5,6 @@ pandas
 dotenv
 langchain-community
 langchain-experimental
+openpyxl
+tabulate
+langchain-mistralai
