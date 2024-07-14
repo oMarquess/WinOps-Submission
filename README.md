@@ -25,5 +25,8 @@ Welcome to the Data Analysis App by Team WinOps, a cutting-edge tool designed to
 ### Support
 For support, email us at winops@example.com or file an issue in this repository.
 
+### NOTE:
+Always monitor the command interface as some events may be running silently in the background especially in a cpu environment.
+
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
