@@ -21,20 +21,6 @@ Welcome to the Data Analysis App by Team WinOps, a cutting-edge tool designed to
 
 5. Navigate to `http://localhost:5000` in your web browser to start using the app.
 
-### Dependencies
-- Flask
-- OpenAI
-- Pandas
-- Matplotlib
-- Seaborn
-
-### Contribution Guidelines
-We welcome contributions from the community. If you'd like to contribute, please:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
 
 ### Support
 For support, email us at winops@example.com or file an issue in this repository.
