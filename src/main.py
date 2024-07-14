@@ -49,6 +49,7 @@ st.title('AI Data Analysis Assistant by WinOps 🤖')
 # Welcome message to the user
 st.write("Hello 👋🏻 I am your WinOps AI Assistant, and I am here to help you with your data analysis problems.")
 
+
 # Set up the sidebar
 with st.sidebar:
     st.write(
